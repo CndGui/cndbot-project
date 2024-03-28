@@ -1,0 +1,16 @@
+{
+  "name": "cndbot",
+  "version": "1.0.0",
+  "description": "Lindo",
+  "main": "index.js",
+  "scripts": {
+    "test": "<p>test"
+  },
+  "author": "CndGui",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "mongoose": "^5.10.14",
+    "ms": "^2.1.2"
+  }
+}

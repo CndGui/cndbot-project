@@ -1,0 +1,16 @@
+{
+    "prefix": "/",
+    "token": "",
+
+    "developers": [],
+
+    "colors": {
+        "green": "#00ff00",
+        "red": "#ff0000"
+    },
+
+    "emojis": {
+        "correct": "",
+        "error": ""
+    }
+}
